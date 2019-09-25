@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-putrs programmer_hash{:grace_hopper}
+puts programmer_hash{:grace_hopper}
 
 end
 
